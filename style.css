@@ -1,3 +1,4 @@
+
 .carousel {
     max-width: 1100px; 
     margin: 0 auto; 
@@ -5,7 +6,7 @@
   
   .carousel-item img {
     max-height: 920px; 
-    width: auto; 
+    width: auto;
     margin: 0 auto; 
   }
 
@@ -21,7 +22,8 @@
   background-color:rgb(231, 233, 235);
 }
 
-.form-control.me-2 {
+ 
+ .form-control.me-2 {
   border-color: rgb(210, 9, 167); 
   color: rgb(210, 9, 167);
 }
@@ -29,16 +31,11 @@
 .btn.btn-outline-success {
   border-color: rgb(210, 9, 167); 
   color: rgb(210, 9, 167);
-}
-
-.btn.btn-outline-success {
-  border-color: rgb(210, 9, 167); 
-  color: rgb(210, 9, 167); 
 }
 
 .btn.btn-outline-success:hover {
-  color: rgb(255, 250, 254);
-  background-color: rgb(210, 9, 167); 
+  color: rgb(255, 250, 254); 
+  background-color: rgb(210, 9, 167);
   border-color: rgb(210, 9, 167);
 }
 
@@ -51,9 +48,9 @@
 }
 
 .btn-custom {
-  background-color: rgb(210, 9, 167);
-  color: white;
-  border-color: rgb(210, 9, 167);
+  background-color: rgb(210, 9, 167); 
+  color: white; 
+  border-color: rgb(210, 9, 167); 
 }
 
 .btn-custom:focus,
