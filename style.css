@@ -21,6 +21,12 @@
   background-color:rgb(231, 233, 235);
 }
 
+.form-control.me-2 {
+  border-color: rgb(210, 9, 167); 
+  color: rgb(210, 9, 167);
+}
+
+.btn.btn-outline-success {
   border-color: rgb(210, 9, 167); 
   color: rgb(210, 9, 167);
 }
