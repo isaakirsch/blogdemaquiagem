@@ -1,17 +1,16 @@
-/* Estilos personalizados para o carrossel */
 .carousel {
-    max-width: 1100px; /* Define a largura máxima do carrossel */
-    margin: 0 auto; /* Centraliza o carrossel na página */
+    max-width: 1100px; 
+    margin: 0 auto; 
   }
   
   .carousel-item img {
-    max-height: 920px; /* Define a altura máxima das imagens do carrossel */
-    width: auto; /* Mantém a proporção da largura */
-    margin: 0 auto; /* Centraliza as imagens horizontalmente */
+    max-height: 920px; 
+    width: auto; 
+    margin: 0 auto; 
   }
 
   .bg-custom {
-    background-color: #efeaeb; /* ou qualquer outra cor que desejar */
+    background-color: #efeaeb; 
 }
 
 .navbar-brand {
@@ -22,47 +21,38 @@
   background-color:rgb(231, 233, 235);
 }
 
- /* Estilo personalizado para a borda rosa */
- .form-control.me-2 {
-  border-color: rgb(210, 9, 167); /* Define a cor da borda como rosa */
+  border-color: rgb(210, 9, 167); 
   color: rgb(210, 9, 167);
 }
 
-/* Estilo personalizado para a borda do botão e cor do texto */
 .btn.btn-outline-success {
-  border-color: rgb(210, 9, 167); /* Define a cor da borda como rosa */
-  color: rgb(210, 9, 167); /* Define a cor do texto como rosa */
+  border-color: rgb(210, 9, 167); 
+  color: rgb(210, 9, 167); 
 }
 
-/* Estilo para mudar a cor do texto do botão quando o mouse passa sobre ele */
 .btn.btn-outline-success:hover {
-  color: rgb(255, 250, 254); /* Define a cor do texto como branco quando o mouse passa sobre o botão */
-  background-color: rgb(210, 9, 167); /* Define a cor de fundo como rosa quando o mouse passa sobre o botão */
+  color: rgb(255, 250, 254);
+  background-color: rgb(210, 9, 167); 
   border-color: rgb(210, 9, 167);
 }
 
-/* Estilo para centralizar e mover conteúdo para baixo */
 .centered-content {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 50px; /* Ajuste conforme necessário */
+  margin-top: 50px; 
 }
 
-
-
-/* Estilo personalizado para o botão */
 .btn-custom {
-  background-color: rgb(210, 9, 167); /* Define a cor de fundo como rosa */
-  color: white; /* Define a cor do texto como branco */
-  border-color: rgb(210, 9, 167); /* Define a cor da borda como rosa */
+  background-color: rgb(210, 9, 167);
+  color: white;
+  border-color: rgb(210, 9, 167);
 }
 
-/* Estilo para mudar a cor da borda quando o botão é pressionado */
 .btn-custom:focus,
 .btn-custom:active {
-  box-shadow: none; /* Remove a sombra padrão */
-  outline: none; /* Remove a borda de foco padrão */
-  border-color: rgb(210, 9, 167); /* Define a cor da borda como rosa */
+  box-shadow: none; 
+  outline: none; 
+  border-color: rgb(210, 9, 167); 
 }
